@@ -1,1 +1,3 @@
 # First
+Hello, everybody!
+This is my first attempt at getting to know GitHub...
